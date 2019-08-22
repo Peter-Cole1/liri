@@ -14,3 +14,4 @@ if (search === "spotify-this-song") {
     var sClient = new spotify.SpotifyClient(keys, "song", term);
 }
 
+//support for the omdb and Bands In Town Artist Events API didn't make it in. 
